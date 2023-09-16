@@ -8,7 +8,7 @@ I am pleased to present my 1st project assignment submission for INFO 6150. This
 
 ## Overview
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/ShraddhaMeshram/Shraddha-s-Youtube-Channel/blob/main/Overview.PNG?raw=true))
 
 ### Project Title
 
