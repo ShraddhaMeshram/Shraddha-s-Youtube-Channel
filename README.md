@@ -1,2 +1,2 @@
-# Shraddha-s-Youtube-Channel
+# Shraddhas-Youtube-Channel
 Assignment 1
