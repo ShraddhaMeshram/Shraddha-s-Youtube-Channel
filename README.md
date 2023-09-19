@@ -1,5 +1,5 @@
 
-# Project Title - Shraddha's YT Channel
+# Project Title - Shraddha's YT Channel 🎥 🙌
 
 "Greetings,
 
