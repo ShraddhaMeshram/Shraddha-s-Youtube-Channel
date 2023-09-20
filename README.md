@@ -6,7 +6,7 @@
 I am pleased to present my 1st project assignment submission for INFO 6150. This project revolves around the development of my personal YouTube page, to serve as a platform for showcasing my past 2-3 months experience through videos. What makes it interesting is that I've used this project to learn the basics of web design, using HTML and CSS. I hope you enjoy exploring this page, where you'll find a mix of my adventures and my newfound web design skills taught by my favorite professor, Vishal Chawla."
 
 
-## Screenshots
+## Overview
 
 ![App Screenshot](https://github.com/ShraddhaMeshram/Shraddha-s-Youtube-Channel/blob/main/README%20Images/1.%20Overview.PNG)
 
