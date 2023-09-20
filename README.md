@@ -8,9 +8,21 @@ I am pleased to present my 1st project assignment submission for INFO 6150. This
 
 ## Overview
 
-![App Screenshot](https://github.com/ShraddhaMeshram/Shraddha-s-Youtube-Channel/blob/main/README%20Images/1.%20Overview.PNG)
+![Overview](https://github.com/ShraddhaMeshram/Shraddha-s-Youtube-Channel/blob/main/README%20Images/1.%20Overview.PNG)
 
-### Project Title
+### HTML Controls Used
+
+I've set up a basic structure for my YouTube page, complete with a navbar, header, footer, and content section, along with some additional elements.
+![Overview](https://github.com/ShraddhaMeshram/Shraddha-s-Youtube-Channel/blob/main/README%20Images/2.%20Layout.png)
+
+
+
+
+
+
+
+
+### Summary
 
 I have utilized a comprehensive set of HTML and HTML5 controls in my project, including:
 
