@@ -15,16 +15,20 @@ I am pleased to present my 1st project assignment submission for INFO 6150. This
 #### I've set up a basic layout for my YouTube page, complete with a navbar, header, footer, and content section, along with some additional elements.
 ![Layout](https://github.com/ShraddhaMeshram/Shraddha-s-Youtube-Channel/blob/main/README%20Images/2.%20Layout.png)
 
-#### In the content section of this webpage, I've implemented autoplaying videos that continuously loop for an engaging user experience. Additionally, I've made sure that my username is a clickable hyperlink, directing users to my LinkedIn profile for further networking and information
+#### In the content section of this webpage, implemented autoplaying videos that continuously loop for an engaging user experience. Additionally, I've made sure that my username is a clickable hyperlink, directing users to my LinkedIn profile for further networking and information
 ![Content](https://github.com/ShraddhaMeshram/Shraddha-s-Youtube-Channel/blob/main/README%20Images/2a.png)
 
 #### I've used a custom YouTube favicon in my webpage.
 ![Favicon](https://github.com/ShraddhaMeshram/Shraddha-s-Youtube-Channel/blob/main/README%20Images/3.%20Favicon.png)
 
-#### I've added a clickable YouTube logo to the top-left corner of the webpage, which directs users to YouTube home page when clicked.
+#### Added a clickable YouTube logo to the top-left corner of the webpage, which directs users to YouTube home page when clicked.
 ![YT Image](https://github.com/ShraddhaMeshram/Shraddha-s-Youtube-Channel/blob/main/README%20Images/4.%20Clickable%20YouTube%20Image.png)
 ![YT HomePage](https://github.com/ShraddhaMeshram/Shraddha-s-Youtube-Channel/blob/main/README%20Images/4a.png)
 
+#### Incorporated a search bar into the webpage, with a search button on its right side of the search bar. When users click the search button, a message pops up, saying, 'You need internet access to search!!'"
+![Search1](https://github.com/ShraddhaMeshram/Shraddha-s-Youtube-Channel/blob/main/README%20Images/5.%20Search%20Bar.png)
+![Search2](https://github.com/ShraddhaMeshram/Shraddha-s-Youtube-Channel/blob/main/README%20Images/5a.PNG)
+![Search3](https://github.com/ShraddhaMeshram/Shraddha-s-Youtube-Channel/blob/main/README%20Images/5b.PNG)
 
 
 
