@@ -10,10 +10,17 @@ I am pleased to present my 1st project assignment submission for INFO 6150. This
 
 ![Overview](https://github.com/ShraddhaMeshram/Shraddha-s-Youtube-Channel/blob/main/README%20Images/1.%20Overview.PNG)
 
-### HTML Controls Used
+### HTML Controls Used 💻⌨
 
-I've set up a basic structure for my YouTube page, complete with a navbar, header, footer, and content section, along with some additional elements.
-![Overview](https://github.com/ShraddhaMeshram/Shraddha-s-Youtube-Channel/blob/main/README%20Images/2.%20Layout.png)
+I've set up a basic layout for my YouTube page, complete with a navbar, header, footer, and content section, along with some additional elements.
+![Layout](https://github.com/ShraddhaMeshram/Shraddha-s-Youtube-Channel/blob/main/README%20Images/2.%20Layout.png)
+In the content section of this webpage, I've implemented autoplaying videos that continuously loop for an engaging user experience. Additionally, I've made sure that my username is a clickable hyperlink, directing users to my LinkedIn profile for further networking and information
+![Content](https://github.com/ShraddhaMeshram/Shraddha-s-Youtube-Channel/blob/main/README%20Images/2a.png)
+I've used a custom YouTube favicon in my webpage.
+![Favicon](https://github.com/ShraddhaMeshram/Shraddha-s-Youtube-Channel/blob/main/README%20Images/3.%20Favicon.png)
+I've added a clickable YouTube logo to the top-left corner of the webpage, which directs users to YouTube home page when clicked.
+![YT Image](https://github.com/ShraddhaMeshram/Shraddha-s-Youtube-Channel/blob/main/README%20Images/4.%20Clickable%20YouTube%20Image.png)
+![YT HomePage](https://github.com/ShraddhaMeshram/Shraddha-s-Youtube-Channel/blob/main/README%20Images/4a.png)
 
 
 
